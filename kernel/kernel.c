@@ -90,5 +90,5 @@ void kernel_main(void) {
 	terminal_initialize();
  
 	/* Newline support is left as an exercise. */
-	terminal_writestring("LESKIX");
+	terminal_writestring("LESKIX - ow vei!");
 }
